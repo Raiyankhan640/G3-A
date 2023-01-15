@@ -103,6 +103,10 @@ header {
   padding-bottom: 45px;
   background-repeat: no-repeat;
 }
+.banner-img img{
+  width: 1250px;
+  height: auto;
+}
 
 /* Main Styles */
 
